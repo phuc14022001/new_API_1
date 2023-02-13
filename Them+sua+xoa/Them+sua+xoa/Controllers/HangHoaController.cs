@@ -12,12 +12,12 @@ namespace Them_sua_xoa.Controllers
     public class HangHoaController : ControllerBase
     {
         public static List<HangHoa> hangHoas = new List<HangHoa>();
-        [HttpGet]
+        [HttpGet]//lấy
         public IActionResult HienThi()
         {
             return Ok(hangHoas);
         }
-        [HttpPost ]
+        [HttpPost ]//thêm
         public IActionResult Create(HangHoaVN hangHoaVN)
         {
             var hangHoa = new HangHoa
@@ -48,7 +48,7 @@ namespace Them_sua_xoa.Controllers
                 return BadRequest();
             }
         }
-        [HttpPut("{id}")]
+        [HttpPut("{id}")]//sửa
         public IActionResult sua(string id,HangHoa hanghoasua)
         {
             try
@@ -71,7 +71,7 @@ namespace Them_sua_xoa.Controllers
                 return BadRequest();
             }
         }
-        [HttpDelete("{id}")]
+        [HttpDelete("{id}")]//xóa
         public IActionResult Xoa(string id)
         {
             try
