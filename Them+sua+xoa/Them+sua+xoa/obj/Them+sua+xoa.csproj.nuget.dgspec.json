@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\new_API\\Them+sua+xoa\\Them+sua+xoa\\Them+sua+xoa.csproj": {}
+    "D:\\new_API_1\\Them+sua+xoa\\Them+sua+xoa\\Them+sua+xoa.csproj": {}
   },
   "projects": {
-    "D:\\new_API\\Them+sua+xoa\\Them+sua+xoa\\Them+sua+xoa.csproj": {
+    "D:\\new_API_1\\Them+sua+xoa\\Them+sua+xoa\\Them+sua+xoa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\new_API\\Them+sua+xoa\\Them+sua+xoa\\Them+sua+xoa.csproj",
+        "projectUniqueName": "D:\\new_API_1\\Them+sua+xoa\\Them+sua+xoa\\Them+sua+xoa.csproj",
         "projectName": "Them+sua+xoa",
-        "projectPath": "D:\\new_API\\Them+sua+xoa\\Them+sua+xoa\\Them+sua+xoa.csproj",
+        "projectPath": "D:\\new_API_1\\Them+sua+xoa\\Them+sua+xoa\\Them+sua+xoa.csproj",
         "packagesPath": "C:\\Users\\TH\\.nuget\\packages\\",
-        "outputPath": "D:\\new_API\\Them+sua+xoa\\Them+sua+xoa\\obj\\",
+        "outputPath": "D:\\new_API_1\\Them+sua+xoa\\Them+sua+xoa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TH\\AppData\\Roaming\\NuGet\\NuGet.Config",
